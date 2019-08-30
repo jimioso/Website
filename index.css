@@ -1,0 +1,57 @@
+.black-background{
+    background-color: #2382fa !important;
+  }
+
+  h1{
+    text-align:left;
+    margin-top:#;
+    margin-left:#;
+    font-size: 50px;
+    font-weight: 300px;
+    color: white;
+}
+
+div{
+  display: block;
+  margin-left:1em;
+  margin-top:8em;
+  color: white;
+}
+
+.font{
+  font-family: "Lato", monospace;
+}
+
+
+.links{
+  color:white;
+}
+
+p{
+  font-size: 1rem;
+text-align: left;
+
+}
+a{
+  text-align:left;
+  text-decoration: none;
+
+
+}
+
+
+a:hover{
+  color: white;
+}
+.navigation {
+  height: 6rem;
+  width: 100%;
+}
+
+ul{
+  list-style: none;
+  margin: 3rem 0 1rem 0;
+}
+.icons i{
+  font-size:2rem;
+}
